@@ -1,0 +1,9 @@
+{
+    "ServerName": ".",
+    "ScriptFileName": "script.sql",
+    "OutputFileName": "out.json",
+    "ExportHistoryFileName": "ExportedEvents.txt",
+    "EventType": "CustomMisc",
+    "NewRelicAPIKey": "",
+    "NewRelicAccountId": ""
+}
